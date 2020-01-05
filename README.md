@@ -3,6 +3,9 @@
 Adapted from [IdeasNProjects](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_AICamera_Labelling) by Eric N ([0015](https://github.com/0015)). (Copyright 2019 Eric N under Apache License, Version 2.0).
 [ESP32 CAM | Google Vision - [Part.7] AI Camera📷🔥(Image labeling)](https://youtu.be/bpCCqerQ56o) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_AICamera_Labelling)
 
+** Work in progress **
+** Will not work now **
+
 ## Hardware
 - Ai-Thinker ESP32-CAM
 - 3.2 inch 320*240 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9341 for MCU
@@ -11,6 +14,7 @@ Adapted from [IdeasNProjects](https://github.com/0015/IdeasNProjects/tree/master
 ## Changes
 - Removed image recognition code.
 - Adapted for compilation on both PlatformIO and Arduino IDE.
+- Added OTA update function.
 
 ## Dependencies
 - [Arduino JPEGDecoder library](https://github.com/Bodmer/JPEGDecoder)
